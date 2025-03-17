@@ -15,7 +15,7 @@
     <tr>
       <td style="text-align: left;">j'ai déjà passé avant vous</td>
       <td style="text-align: center;">
-        <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Untitled%20design.png?raw=true"  alt="Sam et sa cousine" style="width:445px; height:150px;"/>
+        <img src="https://github.com/Axeltheaxelotl/boite-a-foutre/blob/main/Untitled%20design.png?raw=true"  alt="Sam et sa cousine" style="width:500px; height:350px;"/>
       </td>
     </tr>
   </table>
